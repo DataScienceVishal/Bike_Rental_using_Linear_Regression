@@ -36,17 +36,17 @@ The developed predictive model achieved a commendable R-squared score of 71%, in
 
 **Libraries Used:**  
 
-## For analysis and numerical functions
+**For analysis and numerical functions**
 pandas
 numpy
 
-## For Visualization and EDA
+**For Visualization and EDA**
 matplotlib
 seaborn
 
-## Extra
+**Extra**
 import warnings
 
-## For modeling and evaluation
+**For modeling and evaluation**
 statsmodels
 sklearn
