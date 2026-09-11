@@ -32,7 +32,7 @@ The objective of the project is to predict the total count of rental bikes (incl
 Utilizing advanced statistical modeling techniques, including regression analysis, the project seeks to establish predictive models that can accurately estimate the total bike rental count. By leveraging features such as "season" and "weathersit" along with other relevant attributes, the goal is to develop a robust predictive model capable of forecasting bike rental demands under different seasonal and weather conditions.
 
 **Model Performance:**  
-The developed predictive model achieved a commendable R-squared score of 71%, indicating a strong correlation between the predicted and actual rental bike counts. This signifies the effectiveness of the model in capturing the variability in bike rental demands based on seasonal and weather factors.
+The developed predictive model achieved an R-squared score of 0.791 on the held-out test set (0.836 on the training set), indicating a strong correlation between the predicted and actual rental bike counts. This signifies the effectiveness of the model in capturing the variability in bike rental demands based on seasonal and weather factors.
 
 **Libraries Used:**  
 
